@@ -77,7 +77,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1144-default-b02-schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32L476ZGTx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32L476"/>
       <feature type="ODbg"        n="1"              name="On-board ST-LINK/V2-1"/>
       <feature type="XTAL"        n="8000000"/>
       <feature type="PWR"         n="5"              name="USB Powered"/>
